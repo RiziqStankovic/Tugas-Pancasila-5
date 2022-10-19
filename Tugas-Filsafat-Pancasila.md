@@ -69,11 +69,21 @@ Ada tiga jenis masalah kefilsafatan yang utama yaitu: keberadaan, pengetahuan da
 - Masalah-masalah nilai-nilai (values). Nilai-nilai dapat dibedakan menjadi dua, nilai-nilai kebaikan dan nilai-nilai keindahan. Nilai-nilai kebaikan tingkah laku bertalian dengan cabang filsafat etika. Nilai-nilai keindahan bertalian dengan cabang filsafat estetika.
 
 Cara pembagian yang lebih sederhana, tiga masalah· kefilsafatan tersebut juga dapat dikaitkan secara berurutan dengan tiga cabang filsafat yaitu: metaflsika, epistemologil, dan aksiologi. 
+
 - Dalam metafisika, pertanyaan pokoknya adalah "Apakah ada itu ?"
 - Dalam epistemologi, pertanyaan pokoknya adalah "Apakah yang
 dapat saya ketahui ?"
 - Dalam aksiologi pertanyaan pokoknya adalah "Bagaimanakah seharusnya saya berbuat?"
-Dalam kaitannya dengan tilsafat Pancasila (tinjauan terhadap Pancasila secara kefilsafatan) tiga persoalan metafisis, epistemologis dan aksiologis tersebut harus dapat dijawab. Dalam kaitannya dengan Pancasila sebagai sistem kefilsafatan, tiga masalah tersebut barns dapat dijawab baik secara teoritis maupun secara normatif.
+
+Penjelasan singkat 
+
+Metafisika (Bahasa Yunani: (meta) = “setelah atau di balik”, (phúsika) = “hal-hal di alam”) adalah cabang filsafat yang mempelajari penjelasan asal atau hakekat objek (fisik) di dunia. Metafisika adalah studi keberadaan atau realitas.
+
+Epistemologi adalah teori pengetahuan yang berhubungan dengan hakikat dari ilmu pengetahuan, pengandaian-pengandaian, dasar-dasarnya serta pertanggung jawaban atas pertanyaan mengenai pengetahuan yang dimiliki oleh setiap manusia.
+
+aksiologi adalah salah satu cabang filsafat yang mempelajari tentang nilai-nilai atau norma-norma terhadap sesuatu ilmu.4 Mengenai nilai itu sendiri dapat jumpai dalam kehidupan sehari-hari seperti kata- kata adil dan tidak adil, jujur dan curang, benar dan salah, baik dan tidak baik.
+
+Dalam kaitannya dengan filsafat Pancasila (tinjauan terhadap Pancasila secara kefilsafatan) tiga persoalan metafisis, epistemologis dan aksiologis tersebut harus dapat dijawab. Dalam kaitannya dengan Pancasila sebagai sistem kefilsafatan, tiga masalah tersebut baru dapat dijawab baik secara teoritis maupun secara normatif.
 
 # 1.4 Pancasila Sebagai Sistem Kefilsafatan
 Manusia merupakan mahluk yang selalu bertanya la menanyakan segala sesuatu yang dijumpainya, yang belum dimengerti. Jawaban atas pertanyaan tersebut dapat diperoleh dengan berfikir sendiri (refleksi) atau ditanyakan kepada orang lain. Pertanyaan kefilsafatan bertalian dengan pertanyaan yang mendalam yang mengacu pada hakikat sesuatu yang dipertanyakan baik tentang Tuhan, alam manpun diri manusia sendiri.
@@ -105,8 +115,6 @@ Setiap sila dari Pancasila tidak dapat dipisahkan dari kesatuan kseluruhannya. P
 Manusia yang terdiri dari sejumnlah unsur mutlak yang semua unsur tersebut menduduki dan menjalankan fungsinya secara mutlak, artinya tidak dapat digantikan fungsinya oleh unsur yang lain.
 
 Adapun inti isi masing-masing sila Pancasila adalah penjelmaan atau realisasi yang sesuai dengan unsur-unsur hakikat manusia sehingga setiap sila harus menempati kedudukan dan menjalankan fungsinya secara mutlak dalam susunan kesatuan Pancasila.
-
-
 
 
 Prof. Notonagoro menyatakan bahwa sila-sila Pancasila merupakan kesatuan yang bersifat organis, yaitu terdiri atas bagian-bagian yang tidak terpisahkan. Di dalam kesatuan ini, tiap-tiap bagian menempati kedudukan sendiri dan berfungsi sendiri. Meskipun tiap-tiap sila itu berbedabecla namun tidak· saling bertentangan malahan saling melengkapi.· Konsekuensi dari konsepsi ini adalah bahwa tidak ·dapat salah satu sila itu dihilangkan. Muhammad Yamin juga menegaskan sifat kesatuan dari sila-sila Pancasila”
@@ -189,5 +197,7 @@ Yamin, Muhammad, 1958, Sistema Filsafat Pantjasila, Kementerian Penerangan
 R.I., Jakarta.
 Syadali, ahmad. Udzakir. Filsafat umum, bandung; PT pustaka setia, 1997.
 Poespowardoyo, soeryanto. 1989. Filsafat pancasila. Gramedia: Jakarta.
-
+Hamdani, 2019, Aksiologi Ilmu Pengetahuan Keislaman, Institut Agama Islam Ngawi.
+Maully Syifa Devinta, Ni’matul Azizah, Reny Hanim Anggraini, EPISTEMOLOGI PENDIDIKAN MENURUT BERAGAM FILSAFAT DUNIA, Universitas Muhammadiyah Sidoarjo.
+rikichandra, MetaFisika, Universitas Jambi.
 ```
