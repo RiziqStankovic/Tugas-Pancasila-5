@@ -24,9 +24,12 @@ Mengetahui dan memahami Perbandingan filsafat pancasila dengan sistem filsafat l
 # 1.1 Pengertian Sistem
 Pengertian tentang sistem dapat mengacu pada benda - benda konkrit maupun benda-benda abstrak. Kita sering mendengar atau membaca istilah-istlIah misalnya sistem nilai budaya (cultural values system),sistem  politik, sistem pendidikan nasional, sistem saraf dan sistem jaringan otot.
 
-	“ Menurut Fowler (1964) yang dimaksud dengan' sistem adalah: Compler whole, set of connected things or parts, organized body ofmaterial or immaterial “things” 
+	“Menurut Fowler (1964) yang dimaksud dengan' sistem adalah: Compler whole, set of connected things or parts, organized body ofmaterial or immaterial “things” 
+
 	“Menurut Webster's New American Dictionary, yang dimaksud dengan sistem adalah:  combination of parts into whole, as the bodily system, the digestive system, a railroad system, the solar system”.
+
 	“Menurut Hornby (1973) mengartikan sistem sebagai: (1) Group of things or Pans working together in a regular relation: the nervous system, the digestive system, the rail way system, (2) Ordered set of ideas, . theories, principles etc. a system philosophy, system of government".
+
 	“Kemudian dalam The Concise Oxford Dictionary of Current English  yang dimaksud sistem filsafat adalah Set of coordinated atau kumpulan dari ajaran-ajaran yang terkoordinasilian".
 
 Berdasarkan pada uraian di atas dapat disimpulkan hal-hal yang bersangkutan
@@ -81,8 +84,11 @@ Jawaban atas pertanyaan kefilsafatan menghasilkan suatu sistem pemikiran kefilsa
 
 Gambar 1. Pancasila sebagai sistem filsafat
 
-	Dalam Uraian terdahulu dikatakan· bahwa sistem kefilsafatan adalah kumpulan dari ajaran-ajaran tentang kenyataan, yang saling berhubungan, sehingga merupakan kesatuan, komprehensi yang kesemuanya itu dimaksudkan untulk mencapai tujuan tertentu. Dimensi subjektif dibentuknya sistem filsafat adalah kesadaran dari pelaku atau pembentuk sistem tersebut untuk menerapkan sistem itu bagi tujuan tertentu atau ideal yang diharapkan.
-	Pancasila terdiri dari lima sila, yang masing-masing sila merupakan ajaran yaitu: 
+Dalam Uraian terdahulu dikatakan· bahwa sistem kefilsafatan adalah kumpulan dari ajaran-ajaran tentang kenyataan, yang saling berhubungan, sehingga merupakan kesatuan, komprehensi yang kesemuanya itu dimaksudkan untulk mencapai tujuan tertentu. 
+
+Dimensi subjektif dibentuknya sistem filsafat adalah kesadaran dari pelaku atau pembentuk sistem tersebut untuk menerapkan sistem itu bagi tujuan tertentu atau ideal yang diharapkan.
+	
+Pancasila terdiri dari lima sila, yang masing-masing sila merupakan ajaran yaitu: 
 
 
 ```
@@ -94,9 +100,11 @@ Gambar 1. Pancasila sebagai sistem filsafat
 ```
 
 
-	Setiap sila dari Pancasila tidak dapat dipisahkan dari kesatuan kseluruhannya. Pada dasarnya yang menjadi subjek atau pendukung dari ini isi sila-sila Pancasila adalah manusia Indonesia sebagai manusia.
-	Manusia yang terdiri dari sejumnlah unsur mutlak yang semua unsur tersebut menduduki dan menjalankan fungsinya secara mutlak, artinya tidak dapat digantikan fungsinya oleh unsur yang lain.
-	Adapun inti isi masing-masing sila Pancasila adalah penjelmaan atau realisasi yang sesuai dengan unsur-unsur hakikat manusia sehingga setiap sila harus menempati kedudukan dan menjalankan fungsinya secara mutlak dalam susunan kesatuan Pancasila.
+Setiap sila dari Pancasila tidak dapat dipisahkan dari kesatuan kseluruhannya. Pada dasarnya yang menjadi subjek atau pendukung dari ini isi sila-sila Pancasila adalah manusia Indonesia sebagai manusia.
+
+Manusia yang terdiri dari sejumnlah unsur mutlak yang semua unsur tersebut menduduki dan menjalankan fungsinya secara mutlak, artinya tidak dapat digantikan fungsinya oleh unsur yang lain.
+
+Adapun inti isi masing-masing sila Pancasila adalah penjelmaan atau realisasi yang sesuai dengan unsur-unsur hakikat manusia sehingga setiap sila harus menempati kedudukan dan menjalankan fungsinya secara mutlak dalam susunan kesatuan Pancasila.
 
 
 
@@ -105,16 +113,17 @@ Prof. Notonagoro menyatakan bahwa sila-sila Pancasila merupakan kesatuan yang be
 
 
 
-	Jadi, tidaklah benar bahwa ajaran lima sila itu hanya satu kumpulan barang yang baik-baik belaka,dan bercerai berai seperti pasir ditepi pantai. Tidaklah begitu saudara- saudara., semuanya kelima sila itu adalah tersusun dalam. suatu perumusan pikiran filosofi yang harmonis" (Yamin, 1958).
+Jadi, tidaklah benar bahwa ajaran lima sila itu hanya satu kumpulan barang yang baik-baik belaka,dan bercerai berai seperti pasir ditepi pantai. Tidaklah begitu saudara- saudara., semuanya kelima sila itu adalah tersusun dalam. suatu perumusan pikiran filosofi yang harmonis" (Yamin, 1958).
 
     Sejalan dengan itu Prof. Notonagoro menyatakan: 
     “Sedangkan sebenarnya sila-sila itu bersama-aama merupakan bagian-bagian dari suatu keutuhan, merupakan bagian - bagian dalam hubungan kesatuan”
 
-	Berdasar pada uraian tersebut di atas, Pancasila sudah memenuhi syarat untuk dapat disebut sebagai sistem kefilsafatan. Sebagai suatu sistem kefilsafatan, Pancasila merupakan basil pemikiran manusia Indonesia secara mendalam sistematik dan menyeluruh tentang kenyataan. Setiap sistem kefilsafatan pada hakikatnya mencerminkan pandangan sesuatu kelompok atau sesuatu bangsa.
-	Terbentuknya sistem kefilsafatan ini juga dipengaruhi oleh lingkungan fisik, sosial dan spiritual tempat bangsa ini hidup. Pancasila merupakan pencerminan pandangan Bangsa Indonesia dalam menghadapi realitas. Secara tegas dalam Pancasila tercermin pandangan Bangsa Indonesia mengenai "Tuhan", "manusia", "satu", "rakyat" dan "adil".
+Berdasar pada uraian tersebut di atas, Pancasila sudah memenuhi syarat untuk dapat disebut sebagai sistem kefilsafatan. Sebagai suatu sistem kefilsafatan, Pancasila merupakan basil pemikiran manusia Indonesia secara mendalam sistematik dan menyeluruh tentang kenyataan. Setiap sistem kefilsafatan pada hakikatnya mencerminkan pandangan sesuatu kelompok atau sesuatu bangsa.
+
+Terbentuknya sistem kefilsafatan ini juga dipengaruhi oleh lingkungan fisik, sosial dan spiritual tempat bangsa ini hidup. Pancasila merupakan pencerminan pandangan Bangsa Indonesia dalam menghadapi realitas. Secara tegas dalam Pancasila tercermin pandangan Bangsa Indonesia mengenai "Tuhan", "manusia", "satu", "rakyat" dan "adil".
 
 
-	Dilihat dari perbedaannya, filsafat yang ada di Indonesia ternyata memiliki banyak perbedaan dengan filsafat yang ada pada Negara Negara lain di dunia, seperti berikut ini :
+Dilihat dari perbedaannya, filsafat yang ada di Indonesia ternyata memiliki banyak perbedaan dengan filsafat yang ada pada Negara Negara lain di dunia, seperti berikut ini :
 
 # 2. Perbandingan filsafat pancasila dengan sistem filsafat lainnya di dunia
 
@@ -154,7 +163,7 @@ Idealisme lebih mementingkan akal dari pada material, idealism adalah tentang re
 
 Gambar 6. Idealisme
 # 7. Utilitarianisme
-	Utilitarianisme berasal dari kata Latin, utilis yang berarti “bermanfaat”. Menurut teori ini suatu perbuatan adalah baik jika membawa manfaat, tapi manfaat tersebut harus menyangkut bukan saja satu dua orang melainkan masyarakat sebagai keseluruhan. Jadi, utilitarianisme berdasar pada hasil atau konsekuensi dari suatu kegiatan atau tindakan yang dilakukan (a consequently approach)
+Utilitarianisme berasal dari kata Latin, utilis yang berarti “bermanfaat”. Menurut teori ini suatu perbuatan adalah baik jika membawa manfaat, tapi manfaat tersebut harus menyangkut bukan saja satu dua orang melainkan masyarakat sebagai keseluruhan. Jadi, utilitarianisme berdasar pada hasil atau konsekuensi dari suatu kegiatan atau tindakan yang dilakukan (a consequently approach)
 
 ![img](assets/Gambar%207.%20Utilitarianisme.png)
 
