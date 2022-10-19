@@ -4,11 +4,11 @@
 # 1. Unsur-unsur pancasila sebagai suatu sistem filsafat. 
 # 2. Perbandingan filsafat pancasila dengan sistem filsafat lainnya di dunia
 
-# Fakultas 	        : Teknik
-# Program studi 	: Teknik  Informatika
-# Kode Matakuliah   : 31141E2FA-Elearning
-# Disusun oleh      : Aji Abdillah Kharisma, ST., M
-# Ditulis oleh      : Ahmad Riziq Maulana Hamzah (411221022)
+# Fakultas 	         : Teknik
+# Program studi 	 : Teknik  Informatika
+# Kode Matakuliah    : 31141E2FA-Elearning
+# Disusun oleh       : Aji Abdillah Kharisma, ST., M
+# Nama/NIM Mahasiswa : Ahmad Riziq Maulana Hamzah / (411221022)
 
 
 
